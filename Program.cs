@@ -8,7 +8,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 
 
-namespace ItaiAlert
+namespace RoommateAlert
 {
     
     public class properties
