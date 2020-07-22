@@ -3,4 +3,4 @@ currently a simple CLI application that sends a notification to my phone if my r
 
 planning to create a simple UI so that you can use this with your own router login info, MAC addresses of interest, and your phone. 
 
-Currently only supports Netgear WNDR4500 and Android phones.
+Currently only supports Netgear WNDR4500 and Android phones using the [join application](https://joaoapps.com/join/).
